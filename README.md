@@ -14,13 +14,16 @@ html5(
 
 ## Parameters
 **tag**
-: The HTML5 tag.
+
+The HTML5 tag.
 
 **attributes**
-: The HTML5 attributes.
+
+The HTML5 attributes.
 
 **children**
-: The HTML5 children.
+
+The HTML5 children.
 
 ## Return Values
 Return the HTML5 element.
